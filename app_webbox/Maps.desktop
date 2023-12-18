@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Maps
+Comment=google maps web
+Exec=webbox https://maps.google.com/ /data/data/com.termux/files/usr/lib/webbox_lib/icon_webbox/map_logo.png Maps 600 400 /data/data/com.termux/files/usr/lib/webbox_lib/cookies_webbox/cookies_map.txt
+Icon=/data/data/com.termux/files/usr/lib/webbox_lib/icon_webbox/map_logo.png
+Path=
+Terminal=false
+StartupNotify=false
