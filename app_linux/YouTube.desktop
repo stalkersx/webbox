@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=YouTube
+Comment=
+Exec=webbox https://www.youtube.com /lib/webbox_lib/icon_webbox/yt_logo.png YouTube 600 400 /lib/webbox_lib/cookies_webbox/cookies_yt.txt
+Icon=/lib/webbox_lib/icon_webbox/yt_logo.png
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gmail
+Comment=
+Exec=webbox https://gmail.com/ /lib/webbox_lib/icon_webbox/gmail_logo.png Gmail 800 500 /lib/webbox/cookies_webbox/cookies_gmail.txt
+Icon=/lib/webbox_lib/icon_webbox/gmail_logo.png
+Path=
+Terminal=false
+StartupNotify=false

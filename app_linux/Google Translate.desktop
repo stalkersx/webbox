@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Translate
+Comment=translite language
+Exec=webbox https://translate.google.com/ /lib/webbox_lib/icon_webbox/trans_logo.png "Google Translate" 600 400 /lib/webbox_lib/cookies_webbox/cookies_trans.txt
+Icon=/lib/webbox_lib/icon_webbox/trans_logo.png
+Path=
+Terminal=false
+StartupNotify=false
