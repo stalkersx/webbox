@@ -11,5 +11,5 @@ COMMAND INSTALL :
 - $ dpkg -i webbox_0.1.deb
 - $ cd webbox
 - $ cp app_termux/* ~/Desktop #if u use termux
-- $ cp app_termux/* ~/Desktop #if u use linux
+- $ cp app_linux/* ~/Desktop #if u use linux
 
